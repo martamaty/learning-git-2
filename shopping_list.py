@@ -12,4 +12,6 @@ for key, value in dicto.items():
     if isinstance(value, list):
         count += len(value) 
 
-print("w sumie to kupuje",count,"produktow")    
+print("w sumie to kupuje",count,"produktow")
+print("pierwszy commit")
+print("drugi commit")    
