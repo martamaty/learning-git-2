@@ -1,4 +1,4 @@
-#funkcja na Palindrom
+#Funkcja na palindrom
 s="radar"
 def palindrom(s):
     if s==s[::-1]:
